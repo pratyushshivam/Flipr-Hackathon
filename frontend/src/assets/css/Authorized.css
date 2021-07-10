@@ -1,0 +1,89 @@
+.emailsHistory {
+  /* border: 1px solid red; */
+}
+.paper_auth {
+  width: fit-content;
+  margin: auto;
+  padding: 1%;
+  height: 80vh;
+  overflow-y: scroll;
+}
+table {
+  text-align: center;
+}
+tr {
+  text-align: center;
+}
+th {
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+.history {
+  margin-bottom: 3%;
+  /* margin: au; */
+}
+.grid {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.textGrid {
+  width: 40% !important;
+  /* border: 1px solid red; */
+  padding: 2%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dialogBoxAuth {
+  /* width: 90%; */
+}
+.gridParent {
+  display: flex;
+  /* border: 2px solid red; */
+  width: 1210px;
+}
+.gridParent .MuiDialogTitle-root {
+  width: 1210px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+.historyButton {
+  position: absolute;
+  left: 90%;
+  top: 12px;
+}
+.flex-end {
+  /* border: 1px solid red; */
+  text-align: right;
+  width: 100%;
+  margin-top: 2%;
+  /* margin-left: 2%; */
+}
+.space-below {
+  margin-bottom: 2% !important;
+  /* font-size: 15px !important; */
+}
+.textGrid h6 {
+  font-size: 18px;
+}
+.messageInput input {
+  height: 30vh;
+}
+.space {
+  margin-right: 1.5% !important;
+}
+.scheduledTable {
+  width: 50%;
+  margin: auto;
+  padding-top: 3%;
+}
+
+.MuiDialog-paperWidthSm {
+  max-width: 1200px  !important; 
+}
